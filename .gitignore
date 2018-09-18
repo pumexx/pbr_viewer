@@ -1,0 +1,25 @@
+# VS files
+*.sln
+*.sdf
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.obj
+*.exp
+*.lib
+*.pdb
+*.dll
+*.ilk
+*.exe
+*.pc
+
+# CMake files
+**/CMakeFiles/**
+CMakeCache.txt
+
+# SPIR-V files
+*.spv
+
+#others
+*.tlog
+*.log
